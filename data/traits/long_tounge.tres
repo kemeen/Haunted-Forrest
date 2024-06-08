@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="Trait" load_steps=2 format=3 uid="uid://br26u0ypyd4v4"]
+
+[ext_resource type="Script" path="res://model/trait.gd" id="1_lnvsj"]
+
+[resource]
+script = ExtResource("1_lnvsj")
+name = "Long Tongue"
+description = "You can use your long, powerful tongue to grab onto things close to you. You may also mark stress to unleash it as a Finesse Close weapon that does d12 physical damage."

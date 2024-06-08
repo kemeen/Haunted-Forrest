@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="Trait" load_steps=2 format=3 uid="uid://c713acbo4satw"]
+
+[ext_resource type="Script" path="res://model/trait.gd" id="1_2lvup"]
+
+[resource]
+script = ExtResource("1_2lvup")
+name = "Purposful Design"
+description = "Decide who you were created by and for what purpose. When you generate your Experiences at character creation, choose one that reflects this purpose and add +1 to it."
